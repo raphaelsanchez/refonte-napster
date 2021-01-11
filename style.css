@@ -1,0 +1,15 @@
+div {
+  margin-bottom: 1em;
+  border: 1px solid;
+  padding: 1em;
+}
+span {
+  margin-bottom: 1em;
+  border: 1px solid red;
+}
+
+body {}
+
+img {
+  max-width: 100%;
+}
